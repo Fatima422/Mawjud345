@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "608227276490",
+    "project_id": "fir-mawjud",
+    "storage_bucket": "fir-mawjud.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:608227276490:android:9dd68ed8ffa87306156633",
+        "android_client_info": {
+          "package_name": "com.example.mojod"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "608227276490-lgu6ie4n6lh3vbcng8mplrpcinvrrq75.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDSmuDVTgZ7dwD1gf-92FAgRGgH_NtDzLs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "608227276490-lgu6ie4n6lh3vbcng8mplrpcinvrrq75.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
